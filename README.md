@@ -25,16 +25,12 @@
 <h3 align="left">Visitor</h3>
 
 <p align="center">
-
-<img src="https://count.getloli.com/get/?theme=moebooru-h" alt="visitor.svg">
            
 
 ## Github Statistic
 
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil3610&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdevil3610&theme=radical&layout=compact"></a></p> 
-
-## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=darkdevil3610&repo=Scrappe&theme=dark)
+    
 
 
