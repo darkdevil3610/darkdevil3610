@@ -28,8 +28,6 @@
 
 <img src="https://count.getloli.com/get/?theme=moebooru-h" alt="visitor.svg">
            
-    <a href="https://komarev.com/ghpvc/?username=ZeroChanBot&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=GOURAV&color=blue&style=flat-square&label=Profile+View"></a>
-</p>
 
 ## Github Statistic
 
