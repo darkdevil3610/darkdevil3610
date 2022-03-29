@@ -7,9 +7,7 @@
 </p>
 
 ## Hello There
-
-<a href="//https://instagram.com/dark_devil_3609"><img align="center" src="https://cardivo.vercel.app/api?name=GOURAV&description=Halo,%20I%27m%20Gourav image=https://avatars.githubusercontent.com/darkdevil3610&usqp=CAU&backgroundColor=%23ecf0f1&youtube=GOURAV&github=GS&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
-
+<a href="//https://instagram.com/dark_devil_3609"><img align="center" src="https://cardivo.vercel.app/api?name=ZeroChanBot&description=Halo,%20I%27m%20Nathan%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/darkdevil3610&usqp=CAU&backgroundColor=%23ecf0f1&youtube=GOURAV&github=GS&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 ## Contact Me In
 
 <p>
