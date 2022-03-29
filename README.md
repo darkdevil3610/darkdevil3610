@@ -16,11 +16,7 @@
 
   <a href="https://wa.me/918089152280/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href=""><img src="https://img.shields.io/badge/YouTube-GOURAV-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/" /><br>
-
    <a href="https://github.com/darkdevil3610"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-
-  <a href="https://youtube.com"><img src="https://img.shields.io/youtube/channel/subscribers/UC7SydwUESoyOQ3qZZuoaNHw?style=social" /> <br>
 
 </p>
 
