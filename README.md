@@ -5,7 +5,19 @@
  <img src="https://telegra.ph/file/56f641c3cf138aa7f27b2.jpg" />
 
 </p>
-
+```js
+const Gourav-Ser = {
+    Original name : "Gourav",
+     Nickname : darkdevil3610,
+    Gender : Male,
+    Relationship status :Single,
+     Mobile OS: Android 12 ,
+   Coding Software: {
+       Mobile: Replit,
+       Computer: VS Code
+    },
+}; //by,Gourav Ser
+```
 ## Hello There
 <a href="//https://instagram.com/dark_devil_3609"><img align="center" src="https://cardivo.vercel.app/api?name=Gourav&description=Halo,%20I%27m%20Gourav%20and%20I'm%20still a beginner %20programer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/darkdevil3610&usqp=CAU&backgroundColor=%23ecf0f1&youtube=GOURAV&github=GS&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 
