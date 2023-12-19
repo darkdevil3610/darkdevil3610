@@ -55,6 +55,14 @@ const Gourav-Ser = {
 
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil3610&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdevil3610&theme=radical&layout=compact"></a></p> 
+
+    ▄▄▄▄                                                    
+  ██▀▀▀▀█                                                   
+ ██         ▄████▄   ██    ██   ██▄████   ▄█████▄  ██▄  ▄██ 
+ ██  ▄▄▄▄  ██▀  ▀██  ██    ██   ██▀       ▀ ▄▄▄██   ██  ██  
+ ██  ▀▀██  ██    ██  ██    ██   ██       ▄██▀▀▀██   ▀█▄▄█▀  
+  ██▄▄▄██  ▀██▄▄██▀  ██▄▄▄███   ██       ██▄▄▄███    ████   
+    ▀▀▀▀     ▀▀▀▀     ▀▀▀▀ ▀▀   ▀▀        ▀▀▀▀ ▀▀     ▀▀    
     
 
 
