@@ -1,4 +1,13 @@
 ### Hi there 👋
+
+##     ▄▄▄▄                                                    
+  ██▀▀▀▀█                                                   
+ ██         ▄████▄   ██    ██   ██▄████   ▄█████▄  ██▄  ▄██ 
+ ██  ▄▄▄▄  ██▀  ▀██  ██    ██   ██▀       ▀ ▄▄▄██   ██  ██  
+ ██  ▀▀██  ██    ██  ██    ██   ██       ▄██▀▀▀██   ▀█▄▄█▀  
+  ██▄▄▄██  ▀██▄▄██▀  ██▄▄▄███   ██       ██▄▄▄███    ████   
+    ▀▀▀▀     ▀▀▀▀     ▀▀▀▀ ▀▀   ▀▀        ▀▀▀▀ ▀▀     ▀▀    
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+darkdevil+3609+GitHub+AC;Follow+Me+Now)](https://git.io/typing-svg)
 <p align="left"> <a href="https://instagram.com/dark_devil_3609" target="blank"><img src="https://img.shields.io/badge/Follow%20@dark_devil_3609-h?color=black&style=for-the-badge&logo=instagram" alt="Gourav ser" /></a> </p>
 </h1>
@@ -56,13 +65,6 @@ const Gourav-Ser = {
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil3610&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdevil3610&theme=radical&layout=compact"></a></p> 
 
-    ▄▄▄▄                                                    
-  ██▀▀▀▀█                                                   
- ██         ▄████▄   ██    ██   ██▄████   ▄█████▄  ██▄  ▄██ 
- ██  ▄▄▄▄  ██▀  ▀██  ██    ██   ██▀       ▀ ▄▄▄██   ██  ██  
- ██  ▀▀██  ██    ██  ██    ██   ██       ▄██▀▀▀██   ▀█▄▄█▀  
-  ██▄▄▄██  ▀██▄▄██▀  ██▄▄▄███   ██       ██▄▄▄███    ████   
-    ▀▀▀▀     ▀▀▀▀     ▀▀▀▀ ▀▀   ▀▀        ▀▀▀▀ ▀▀     ▀▀    
     
 
 
