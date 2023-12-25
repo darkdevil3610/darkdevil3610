@@ -27,6 +27,15 @@ const Gourav-Ser = {
 ```
 ## Hello There
 <a href="//https://instagram.com/dark_devil_3609"><img align="center" src="https://cardivo.vercel.app/api?name=Gourav&description=Halo,%20I%27m%20Gourav%20and%20I'm%20still a beginner %20programer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/darkdevil3610&usqp=CAU&backgroundColor=%23ecf0f1&youtube=GOURAV&github=GS&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+<details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=darkdevil3610/tree/main&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=darkdevil3610&theme=tokyonight">
+  </p>
+</details>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkdevil3610&label=VIEWS&style=flat-square&color=orange" />
