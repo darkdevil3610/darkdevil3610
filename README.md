@@ -53,7 +53,6 @@ const Gourav-Ser = {
 ## Contact Me In
 
 <p>
-Bitcoin address: 1HyB7LuxNYqszfAXM3m4W3cNZJfFXdq1Pb
 
   <a href="https://instagram.com/dark_devil_3609"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
