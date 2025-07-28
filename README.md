@@ -14,7 +14,7 @@
 
 <p align="center">
 
- <img src="https://telegra.ph/file/56f641c3cf138aa7f27b2.jpg" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif" />
 
 </p>
 <h2 align="center"> ✨ About Me ✨</h2
