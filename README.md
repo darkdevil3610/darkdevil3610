@@ -58,6 +58,8 @@ const Gourav-Ser = {
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil3610&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdevil3610&theme=radical&layout=compact"></a></p> 
 
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=darkdevil3610&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
