@@ -61,6 +61,11 @@ const Gourav-Ser = {
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=darkdevil3610&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 
+## 🌟 Small Contributions
+
+
+[<img src="https://user-images.githubusercontent.com/90065760/235227449-e544793c-d7b6-4e40-b0a7-70d49dbbb788.png" alt="Icon" width="16" height="16" /> Rust](https://github.com/rust-lang/rust-by-example/pull/1981)
+
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
