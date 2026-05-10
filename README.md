@@ -55,10 +55,9 @@ const Gourav-Ser = {
 
 ## Github Statistic
 
-<p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil3610&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/darkdevil3610"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdevil3610&theme=radical&layout=compact"></a></p> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=darkdevil3610&theme=github-dark-blue&border_radius=6.6&card_width=1080&card_height=395)](https://git.io/streak-stats)
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=darkdevil3610&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 
 
 ## 🌟 Small Contributions
