@@ -1,78 +1,84 @@
 ### Hi there 👋
- 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+darkdevil+3609+GitHub+AC;Follow+Me+Now)](https://git.io/typing-svg)
-<p align="left"> <a href="https://instagram.com/dark_devil_3609" target="blank"><img src="https://img.shields.io/badge/Follow%20@dark_devil_3609-h?color=black&style=for-the-badge&logo=instagram" alt="Gourav ser" /></a> </p>
-</h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&size=30&pause=500&width=630&color=F7000&lines=Welcome+to+darkdevil3610+GitHub+Acc;Follow+Me+Now)](https://git.io/typing-svg)
+
+<p align="left">
+  <a href="https://instagram.com/dark_devil_3609" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20@dark_devil_3609-h?color=black&style=for-the-badge&logo=instagram" alt="Gourav ser" />
+  </a>
+</p>
+
+---
 
 <div align="center">
- 
 
-  
-  ![GitHub Snake dark](https://github.com/darkdevil3610/darkdevil3610/blob/main/github-user-contribution.svg)
+![GitHub Snake dark](https://github.com/darkdevil3610/darkdevil3610/blob/main/github-user-contribution.svg)
+
 </div>
 
+---
+
 <p align="center">
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif" />
-
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif" />
 </p>
-<h2 align="center"> ✨ About Me ✨</h2
- 
+
+<h2 align="center">✨ About Me ✨</h2>
+
 ```js
-const Gourav-Ser = {
-    Original name : "Gourav",
-     Nickname : darkdevil3610,
-    Gender : Male,
-    Relationship status :Single,
-     Mobile OS: Android 12 ,
-   Coding Software: {
-       Mobile: Replit,
-       Computer: VS Code
+const Gourav_Ser = {
+    originalName      : "Gourav",
+    nickname          : "darkdevil3610",
+    gender            : "Male",
+    relationshipStatus: "Single",
+    mobileOS          : "Android 12",
+    codingSoftware    : {
+        mobile  : "Replit",
+        computer: "VS Code"
     },
-}; //by,Gourav Ser
+}; // by, Gourav Ser
 ```
 
+---
 
-
-## Contact Me In
+## 📬 Contact Me
 
 <p>
-
-
-
-  <a href="https://wa.me/918089152280/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-   <a href="https://github.com/darkdevil3610"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-suresh/) 
-   
-   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gourav.is-a.dev/portfolio/)
-
-
+  <a href="https://wa.me/918089152280/">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/darkdevil3610">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gourav-suresh/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://gourav.is-a.dev/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
-         
 
-## Github Statistic
+---
+
+## 📊 Github Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darkdevil3610&theme=github-dark-blue&border_radius=6.6&card_width=1080&card_height=395)](https://git.io/streak-stats)
 
-
-
+---
 
 ## 🌟 Small Contributions
 
+- [<img src="https://user-images.githubusercontent.com/90065760/235227449-e544793c-d7b6-4e40-b0a7-70d49dbbb788.png" alt="Rust Icon" width="16" height="16" /> Rust](https://github.com/rust-lang/rust-by-example/pull/1981)
+- [<img src="https://user-images.githubusercontent.com/90065760/235228107-b54ad02e-0eca-4fe2-aed9-917f9c4f81ef.png" alt="Microsoft Icon" width="16" height="16" /> Microsoft](https://github.com/MicrosoftDocs/win32/pull/2152)
 
-[<img src="https://user-images.githubusercontent.com/90065760/235227449-e544793c-d7b6-4e40-b0a7-70d49dbbb788.png" alt="Icon" width="16" height="16" /> Rust](https://github.com/rust-lang/rust-by-example/pull/1981)
-[<img src="https://user-images.githubusercontent.com/90065760/235228107-b54ad02e-0eca-4fe2-aed9-917f9c4f81ef.png" alt="Icon" width="16" height="16"/> Microsoft](https://github.com/MicrosoftDocs/win32/pull/2152)
+---
 
-<p>
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkdevil3610&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-    
-
-
