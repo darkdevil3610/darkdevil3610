@@ -70,6 +70,20 @@ const Gourav_Ser = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darkdevil3610&theme=github-dark-blue&border_radius=6.6&card_width=1080&card_height=395)](https://git.io/streak-stats)
 
+# 🏆 GitHub Trophies
+<picture>
+  <source
+    srcset="https://github-profile-trophy-tawny.vercel.app/?username=darkdevil3610&theme=radical&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy-tawny.vercel.app/?username=darkdevil3610&theme=buefy&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img srcset="https://github-profile-trophy-tawny.vercel.app/?username=darkdevil3610&theme=radical&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true" />
+</picture>
+
+
 ---
 
 ## 🌟 Small Contributions
