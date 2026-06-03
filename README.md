@@ -68,7 +68,7 @@ const Gourav_Ser = {
 
 ## 📊 Github Statistics
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=darkkdevil3610&theme=github-dark-blue&border_radius=6.6&card_width=1080&card_height=395" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width=920 height=395 /></a>
 
 # 🏆 GitHub Trophies
 <picture>
