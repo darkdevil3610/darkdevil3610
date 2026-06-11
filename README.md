@@ -89,7 +89,7 @@ const Gourav_Ser = {
 ## 🌟 Small Contributions
 
 - [<img src="https://user-images.githubusercontent.com/90065760/235227449-e544793c-d7b6-4e40-b0a7-70d49dbbb788.png" alt="Rust Icon" width="16" height="16" /> Rust](https://github.com/rust-lang/rust-by-example/pull/1981)
-- [<img src="https://user-images.githubusercontent.com/90065760/235228107-b54ad02e-0eca-4fe2-aed9-917f9c4f81ef.png" alt="Microsoft Icon" width="16" height="16" /> Microsoft](https://github.com/MicrosoftDocs/win32/pull/2152)
+- [<img src="https://user-images.githubusercontent.com/90065760/235228107-b54ad02e-0eca-4fe2-aed9-917f9c4f81ef.png" alt="Microsoft Icon" width="16" height="16" /> Microsoft](https://github.com/microsoft/pg_durable/pull/211)
 
 ---
 
