@@ -83,15 +83,15 @@ const Gourav_Ser = {
 <p align="center">
   <picture>
     <source
-      srcset="https://github-profile-trophy-tawny.vercel.app/?username=darkdevil3610&theme=radical&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
+      srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=darkdevil3610&theme=radical&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-profile-trophy-tawny.vercel.app/?username=darkdevil3610&theme=buefy&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
+      srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=darkdevil3610&theme=buefy&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-profile-trophy-tawny.vercel.app/?username=darkdevil3610&theme=radical&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
+      src="https://trophygithubreadmelang.cybee.dpdns.org/?username=darkdevil3610&theme=radical&no-bg=true&column=4&margin-w=4&margin-h=4&no-frame=true"
       alt="GitHub Trophies"
     />
   </picture>
