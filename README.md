@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&size=30&pause=500&width=630&color=F7000&lines=Welcome+to+darkdevil3610+GitHub+Acc;Follow+Me+Now)](https://git.io/typing-svg)
 
 <p align="left">
@@ -111,5 +113,7 @@ const Gourav_Ser = {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkdevil3610&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=darkdevil3610&abbreviated=true" alt="profile views" />
 </p>
+
+
